@@ -1,4 +1,4 @@
-# Metamorphosys's Component Libraries
+# Metamorphosys's component libraries
 My libraries for Metamorphosys
 
 ## LED
